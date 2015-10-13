@@ -8,6 +8,20 @@
 
 :bar_chart: **[Pilot Open Data Portal](https://greengov.data.ca.gov/)**
 
+## Contents
+- [Introduction](#introduction)
+- [Agenda](#agenda)
+- [Contestant Eligibility, Terms and Submission Requirements](#contestant-eligibility-terms-and-submission-requirements)
+- [Contest Timeline](#contest-timeline)
+- [Parking and Other Accomodations](#parking-and-other-accomodations)
+- [Contest Judges](#contest-judges)
+- [Judging Criteria](#judging-criteria)
+- [Submission Instructions](#submission-instructions)
+- [Resources](#resources)
+- [Terms and Conditions](#terms-and-conditions)
+
+## Introduction
+
 As the state deals with the effects of environmental change and the drought, California government seeks to find innovative ways to reduce waste in resources and increase sustainable practices. As part of the Innovation Contest (AB 2138- Gatto), the Government Operations Agency and the Department of General Services are looking for innovative solutions that will help California improve its sustainable operations and engage with the public. We want the public to leverage the pilot Statewide Open Data Portal and use publicly available data sources to help citizens and decision makers understand the state’s progress on achieving sustainability goals and to help policymakers and implementers inside state government make informed decisions.   
 
 Drawing at least one data set available through the pilot Statewide Open Data Portal, this innovation contest will focus on creating apps, visualizations, and other tools that can help improve government sustainability practices. Contestants should be able to harness and visualize data sets to empower citizens and policy makers with data to evaluate the progress of each department toward established sustainability goals that will lead to better informed policy and implementation decisions.
@@ -114,6 +128,18 @@ Event parking is available in the traffic circle in front of the Ziggurat on a f
 - Provides the finest temporal granularity available in the data.  An example includes monthly, rather than annual utility usage.     
 - OTech provides a guide on the WebTools website, Accessibility section at http://webtools.ca.gov/web-content/web-accessibility/. Also see right navigation “Testing Resources” for Content, Browsers, Applications. Section 508 of the Rehabilitation Act of 1973, as amended in 1998  is at the Federal level and is outdated. They are currently going through a Section 508 refresh. The standard is WCAG 2.0 level II. 
 
+## Submission Instructions:
+
+Send an email to [OpenCalifornia@govops.ca.gov](mailto:OpenCalifornia@govops.ca.gov) with the following:
+
+1. Your Name
+2. Your Team Name
+3. Team Lead and email
+4. Project Title
+5. Link to your App (if deployed)
+6. Link to your GitHub Repository
+7. Your presentation (in PDF or pptx. format)
+
 ## Resources
 
 - **[Code for Sacramento](http://codeforsacramento.org/)**: We will partner with Code for Sacramento and reach out to the brigades in San Francisco and Oakland to spread the word about the contest. Code for Sacramento will serve as an advisory role throughout our planning process.
@@ -121,4 +147,4 @@ Event parking is available in the traffic circle in front of the Ziggurat on a f
 - **Sustainability Goals**: [This document](http://www.documents.dgs.ca.gov/dgs/pio/greengovsustainabilitygoals.pdf) summarizes some of the Governor’s sustainability goals.
 
 ## Terms and Conditions
-Please read the [Terms and Conditions](https://github.com/CAGovOps/CAGreenGov/edit/master/TERMS_AND_CONDITIONS.md) prior to submitting your entry.
+Please read the [Terms and Conditions](https://github.com/CAGovOps/CAGreenGov/blob/master/TERMS_AND_CONDITIONS.md) prior to submitting your entry.
