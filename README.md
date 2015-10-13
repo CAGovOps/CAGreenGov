@@ -131,13 +131,14 @@ Event parking is available in the traffic circle in front of the Ziggurat on a f
 ## Submission Instructions:
 
 Send an email to [OpenCalifornia@govops.ca.gov](mailto:OpenCalifornia@govops.ca.gov) with the following:
-1) Your Name
-2) Your Team Name
-3) Team Lead and email
-4) Project Title
-5) Link to your App (if deployed)
-6) Link to your GitHub Repository
-7) Your presentation (in PDF or pptx. format)
+
+1. Your Name
+2. Your Team Name
+3. Team Lead and email
+4. Project Title
+5. Link to your App (if deployed)
+6. Link to your GitHub Repository
+7. Your presentation (in PDF or pptx. format)
 
 ## Resources
 
