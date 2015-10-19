@@ -130,7 +130,7 @@ Event parking is available in the traffic circle in front of the Ziggurat on a f
 
 ## Submission Instructions:
 
-Send an email to [OpenCalifornia@govops.ca.gov](mailto:OpenCalifornia@govops.ca.gov) with the following:
+Send an email to [Angelica.Quirarte@GovOps.ca.gov](mailto:angelica.quirarte@govops.ca.gov) with the following:
 
 1. Your Name
 2. Your Team Name
