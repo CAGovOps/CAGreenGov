@@ -27,7 +27,7 @@ As the state deals with the effects of environmental change and the drought, Cal
 Drawing at least one data set available through the pilot Statewide Open Data Portal, this innovation contest will focus on creating apps, visualizations, and other tools that can help improve government sustainability practices. Contestants should be able to harness and visualize data sets to empower citizens and policy makers with data to evaluate the progress of each department toward established sustainability goals that will lead to better informed policy and implementation decisions.
 
 **Visually engaging sustainability tools could include, but not be limited, a dashboard that:**
-- Reports departments’ progress toward established sustainability goals.
+- Reports departments’ progress toward established sustainability goals. Consider the Green Buildings Website as a stater point: http://greenbuildings.ca.gov/ 
 - Incorporates as many of the data sets provided as possible, as well as other publicly available data sources.
 - Automatically updates as data sets in data portal are updated.
 
