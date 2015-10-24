@@ -6,7 +6,10 @@
 
 :house: **[Contest Homepage](http://www.dgs.ca.gov/dgs/Home/GreenGovChallenge.aspx)** 
 
-:bar_chart: **[Pilot Open Data Portal](https://greengov.data.ca.gov/)**
+:bar_chart: **[Pilot Open Data Portal](https://greengov.data.ca.gov/)
+**
+
+:tada: **[Data Steward Presentations](https://docs.google.com/presentation/d/1sa7QU-98to-1KIQwhXAjVnx-ujrwtZXuwYNEo2H2bWI/edit?usp=sharing)**
 
 ## Contents
 - [Introduction](#introduction)
