@@ -34,6 +34,11 @@
 
 :computer: http://thelucre.github.io/greengov/
 
+### Glean
+:octocat: https://github.com/CAGovOps/GleanGreenGov
+
+:computer: not available
+
 ### Insight
 :octocat: https://github.com/CAGovOps/greenbuyer
 
