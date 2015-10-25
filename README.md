@@ -10,6 +10,52 @@
 
 :tada: **[Data Steward Presentations](https://docs.google.com/presentation/d/1sa7QU-98to-1KIQwhXAjVnx-ujrwtZXuwYNEo2H2bWI/edit?usp=sharing)**
 
+## Submissions
+
+### Acumen
+:octocat: https://github.com/CAGovOps/AcuFuel
+:computer: not available
+
+### Apptology
+:octocat: https://github.com/CAGovOps/AltFuelFinder
+:computer: https://play.google.com/store/apps/details?id=com.app_altff.layout 
+
+### BKWLD
+:octocat: https://github.com/CAGovOps/report-card
+:computer: http://thelucre.github.io/greengov/
+
+### Jeff Bennett
+:octocat: https://github.com/CAGovOps/CASBAH
+:computer: http://digitalsplashmedia.com/GGC/ 
+
+### NudgeSMS
+:octocat: https://github.com/CAGovOps/nudgesms
+:computer: http://alan707.github.io/nudgesms/
+
+### Shiny 
+:octocat: https://github.com/CAGovOps/smartFleet
+:computer: http://rstudio.bogdanrau.com:3838/smartFleet/
+
+### Something Green
+:octocat: not available
+:computer: not available
+
+### Symsoft Greens
+:octocat: https://github.com/CAGovOps/symsoft-greens
+:computer: not available
+
+### Team Stonelake 
+:octocat: https://github.com/CAGovOps/green-fleet-dashboard
+:computer: not available
+
+### Team UCD
+:octocat: https://github.com/CAGovOps/2015-hackathon
+:computer: not available 
+
+### Weekend School Bus
+:octocat: https://github.com/CAGovOps/Weekend_School_Bus
+:computer: http://weekendschoolbus.com/
+
 ## Contents
 - [Introduction](#introduction)
 - [Agenda](#agenda)
