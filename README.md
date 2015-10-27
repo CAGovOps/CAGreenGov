@@ -39,22 +39,25 @@
 
 :computer: not available
 
-### Insight
+###Insight :trophy:
+
 :octocat: https://github.com/CAGovOps/greenbuyer
 
-:computer: http://greenbuyer.ngrok.io/ 
+:computer: http://greenbuyer.org/
 
 ### Jeff Bennett
 :octocat: https://github.com/CAGovOps/CASBAH
 
 :computer: http://digitalsplashmedia.com/GGC/ 
 
-### NudgeSMS
+###NudgeSMS :trophy:
+
 :octocat: https://github.com/CAGovOps/nudgesms
 
 :computer: http://alan707.github.io/nudgesms/
 
-### Shiny 
+### Shiny :trophy:
+
 :octocat: https://github.com/CAGovOps/smartFleet
 
 :computer: http://rstudio.bogdanrau.com:3838/smartFleet/
@@ -79,7 +82,8 @@
 
 :computer: not available 
 
-### Weekend School Bus
+### Weekend School Bus :trophy:
+
 :octocat: https://github.com/CAGovOps/Weekend_School_Bus
 
 :computer: http://weekendschoolbus.com/
